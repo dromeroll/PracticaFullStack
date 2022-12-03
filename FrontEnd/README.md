@@ -1,6 +1,13 @@
 # Practica  FrontEnd
 
-**Caso: Abogabot**
+A partir del próximo caso, realizar lo siguiente:
+1. Toma de requerimientos (crear un "Buyer Persona")
+2. Identificar el público objetivo
+3. Crear Wireframe UX
+4. Crear Wireframe UI
+
+**Caso: Abogabot**  
+
 - Es un despacho de abogados que quiere automatizar las demandas de sus clientes, esto lo harán a traves de una página web llenando un formulario.
 - Al momento de llenar el formulario se manda al proceso de pago para finalizar la transacción.
 - Para dar seguimiento a su demanda, el cliente crea una cuenta en la plataforma y verá el seguimiento de cada una de las actualizaciones del proceso legal.
